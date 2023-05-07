@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dappforsneaktagtest/static/css/main.b34d3b8b.css",
-    "main.js": "/dappforsneaktagtest/static/js/main.35108a53.js",
+    "main.js": "/dappforsneaktagtest/static/js/main.20f38b87.js",
     "static/js/787.620a9219.chunk.js": "/dappforsneaktagtest/static/js/787.620a9219.chunk.js",
     "index.html": "/dappforsneaktagtest/index.html",
     "main.b34d3b8b.css.map": "/dappforsneaktagtest/static/css/main.b34d3b8b.css.map",
-    "main.35108a53.js.map": "/dappforsneaktagtest/static/js/main.35108a53.js.map",
+    "main.20f38b87.js.map": "/dappforsneaktagtest/static/js/main.20f38b87.js.map",
     "787.620a9219.chunk.js.map": "/dappforsneaktagtest/static/js/787.620a9219.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b34d3b8b.css",
-    "static/js/main.35108a53.js"
+    "static/js/main.20f38b87.js"
   ]
 }
