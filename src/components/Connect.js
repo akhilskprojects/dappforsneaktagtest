@@ -27,7 +27,7 @@ function Connect() {
     e.preventDefault();
     if (window.ethereum) {
       const web3 = new Web3(window.ethereum);
-      const address = '0xdf7d442280052814a459B401EE7B95F526d520bF';
+      const address = '0xded7B214C34507844B41144d05C1A2cdeA13d231';
       const usecontract = new web3.eth.Contract(SneakTag, address);
       const hexSneakID = web3.utils.padRight(web3.utils.asciiToHex(SneakID), 64);
   
